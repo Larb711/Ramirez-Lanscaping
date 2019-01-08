@@ -15,7 +15,12 @@ h1{
     color: navy;
  font-size: 50px;
     font-family:inherit;
-    
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 .Home {
     background-color:aliceblue;
@@ -24,7 +29,7 @@ h1{
      padding: 5px 10px;
     text-align: center;
        font-family:monospace;
-    display: 
+    display:
         block;
     font-size: 16px;
       position: absolute;
@@ -38,13 +43,13 @@ h1{
     padding: 5px 10px;
     text-align: center;
     font-family:monospace;
-    display: 
+    display:
         block;
     font-size: 16px;
   position: absolute;
     right: 185px;
     top: 30px;
-} 
+}
 .Contact {
     background-color:aliceblue;
     border: aliceblue;
@@ -52,7 +57,7 @@ h1{
      padding: 5px 10px;
     text-align: center;
        font-family:monospace;
-    display: 
+    display:
         block;
     font-size: 16px;
      position: absolute;
@@ -60,10 +65,10 @@ h1{
     top: 30px;
 }
 .fav {
-   
+
     text-align: center;
        font-family:monospace;
-    display: 
+    display:
         block;
     font-size: 16px;
      position: absolute;
