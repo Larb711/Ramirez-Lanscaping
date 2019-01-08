@@ -1,0 +1,72 @@
+Body{
+   background-image:url(Smash.JPG);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+     color: white;
+    border: aliceblue;
+    font-size: 20px;
+     margin-left: 100px;
+    margin-right: 100px;
+}
+h1{
+   text-align: center;
+    margin-top:100px;
+    color: navy;
+ font-size: 50px;
+    font-family:inherit;
+    
+}
+.Home {
+    background-color:aliceblue;
+    border: aliceblue;
+    color: aliceblue;
+     padding: 5px 10px;
+    text-align: center;
+       font-family:monospace;
+    display: 
+        block;
+    font-size: 16px;
+      position: absolute;
+    right: 287px;
+    top: 30px;
+}
+.Jobs {
+    background-color:aliceblue;
+    border: aliceblue;
+    color: aliceblue;
+    padding: 5px 10px;
+    text-align: center;
+    font-family:monospace;
+    display: 
+        block;
+    font-size: 16px;
+  position: absolute;
+    right: 185px;
+    top: 30px;
+} 
+.Contact {
+    background-color:aliceblue;
+    border: aliceblue;
+    color: aliceblue;
+     padding: 5px 10px;
+    text-align: center;
+       font-family:monospace;
+    display: 
+        block;
+    font-size: 16px;
+     position: absolute;
+    right: 30px;
+    top: 30px;
+}
+.fav {
+   
+    text-align: center;
+       font-family:monospace;
+    display: 
+        block;
+    font-size: 16px;
+     position: absolute;
+    right: 130px;
+    top: 50px;
+}
